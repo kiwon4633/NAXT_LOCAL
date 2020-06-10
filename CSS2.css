@@ -31,10 +31,10 @@ a:hover {
     color: chocolate;
 }
 #body_grid1 {
-    width: auto; height: auto;
+    width: 100%; height: auto;
     border: 5px solid black;
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-template-rows: repeat(3, 500px);
-    padding-top: 40px;
+    padding-top: 40px; padding-bottom: 40px;
 }
