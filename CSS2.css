@@ -40,7 +40,3 @@ a:hover {
     grid-template-rows: repeat(3, 500px);
     padding-top: 40px;
 }
-@media(min-width:1700px){
-    #body_grid1 {width: 1700px;}
-    ul {border-right: none;}
-}
